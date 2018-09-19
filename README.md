@@ -1,7 +1,7 @@
 # Reinforcement Learning: An Introduction
-Python implmentation for Sutton & Barto's [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book.html) including 
+Python implmentation for Sutton & Barto's [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book.html) 
 
-code for figures and some exercises in the book.
+> Codes for figures and some exercises in the book.
 
 ## Contents
 
