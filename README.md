@@ -13,6 +13,8 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 4. [Figure 2.4: Average performance of UCB action selection on the 10-armed testbed.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Figure.md)
 5. [Figure 2.5: Average performance of the gradient bandit algorithm.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Figure.md)
 6. [Figure 2.6: A parameter study of the various bandit algorithms.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Figure.md)
+7. [Exercise 2.5](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Exercise.md)
+8. [Exercise 2.11](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Exercise.md)
 
 ## Environment
 

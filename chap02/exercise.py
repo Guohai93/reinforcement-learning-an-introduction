@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2018/9/19 下午3:42
-@Author  : Guohai
+@Author  : Guohai (xuguohai7@163.com)
 @Declare :
     1. Codes for some exercises of chapter 2 in Sutton & Barto's Reinforcement Learning: An Introduction (2nd Edition)
     2. Most of codes are modified from ShangtongZhang, but rewrite the codes to make it easy to understand.
@@ -197,7 +197,7 @@ def simulate(bandits, runs, times):
 
 
 # ************************ Exercise 2.5 ************************
-def exercise2_5(runs=2000, times=10000):
+def exercise2_5(runs=20, times=100):        # 2000, 10000
     bandits = []
     bandits.append(EpsilonGreedy(epsilon=0.1, average_sample=True))
     bandits.append(EpsilonGreedy(epsilon=0.1, average_sample=False, step_size=0.1))
@@ -222,10 +222,11 @@ def exercise2_5(runs=2000, times=10000):
 
     plt.savefig('./images/exercise2_5.png')
     plt.show()
+    plt.close()
 
 
 # ************************ Exercise 2.11 ************************
-def exercise2_11(runs=2000, times=200000):
+def exercise2_11(runs=20, times=200):    # 2000, 200000
     generators = [
         lambda epsilon: EpsilonGreedy(epsilon=epsilon),
         lambda initial: EpsilonGreedy(average_sample=False, initial_value=initial, step_size=0.1),
@@ -264,6 +265,7 @@ def exercise2_11(runs=2000, times=200000):
 
     plt.savefig('./images/exercise2_11.png')
     plt.show()
+    plt.close()
 
 
 if __name__ == '__main__':

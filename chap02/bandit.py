@@ -10,7 +10,7 @@
 #######################################################################
 """
 @Time    : 2018/9/14 上午9:16
-@Author  : Guohai
+@Author  : Guohai (xuguohai7@163.com)
 @Declare :
     1.Codes for figures of chapter 2 in Sutton & Barto's Reinforcement Learning: An Introduction (2nd Edition)
     2.Most of codes are modified from ShangtongZhang, but rewrite the codes to make it easy to understand.
