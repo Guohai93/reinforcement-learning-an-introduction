@@ -18,8 +18,8 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 
 ### Chapter 3
 
-1. Figure 3.2: Gridworld example.
-2. Figure 3.5: Optimal solutions to the gridworld example.
+1. [Figure 3.2: Gridworld example.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap03/chap3-figure.md)
+2. [Figure 3.5: Optimal solutions to the gridworld example.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap03/chap3-figure.md)
 
 ## Environment
 
