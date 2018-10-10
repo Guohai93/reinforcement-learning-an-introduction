@@ -28,11 +28,9 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 - matplotlib
 - [tqdm](https://github.com/tqdm/tqdm)
 - [seaborn](https://seaborn.pydata.org) 
-- tqdm
 
 ## Reference
 
 - [Github-ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
-> Feel free to discuss with me if you have any questions !
-> 【Homepage：http://guohai.tech  Email：xuguohai7@163.com】
+> Feel free to discuss with me if you have any questions !【Homepage: http://guohai.tech  Email: xuguohai7@163.com】
