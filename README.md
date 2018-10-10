@@ -5,7 +5,7 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 
 ## Contents
 
-### Chapter 2
+### Chapter 2 Multi-armed Bandits
 
 1. [Figure 2.1: An example bandit problem from the 10-armed testbed.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Figure.md)
 2. [Figure 2.2: Average performance of epsilon-greedy action-value methods on the 10-armed testbed.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Figure.md)
@@ -16,7 +16,7 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 7. [Exercise 2.5](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Exercise.md)
 8. [Exercise 2.11](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap02/Chap2-Exercise.md)
 
-### Chapter 3
+### Chapter 3 Finite Markov Decision Processes
 
 1. [Figure 3.2: Gridworld example.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap03/chap3-figure.md)
 2. [Figure 3.5: Optimal solutions to the gridworld example.](https://github.com/Guohai93/reinforcement-learning-an-introduction/blob/master/chap03/chap3-figure.md)
@@ -32,3 +32,5 @@ Python implementation for Sutton & Barto's [Reinforcement Learning: An Introduct
 ## Reference
 
 - [Github-ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+> Feel free to discuss with me if you have any questions！【Homepage：http://guohai.tech   Email：xuguohai7@163.com】
