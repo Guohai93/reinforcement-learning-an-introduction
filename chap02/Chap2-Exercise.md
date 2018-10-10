@@ -26,4 +26,4 @@ The **200,000** steps will take too much time, therefore I only run **20,000** s
 
 ![exercise2_11](./images/exercise2_11.png)
 
-> Feel free to discuss with me if you have any questions！【Homepage：http://guohai.tech   Email：xuguohai7@163.com】
+> Feel free to discuss with me if you have any questions !【Homepage: http://guohai.tech  Email: xuguohai7@163.com】
